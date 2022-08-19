@@ -9,5 +9,5 @@
    * P.O. Box
    * P.O Box
    * PO. Box
-   * https://github.com/EpicVoyage/pobox-rege
+   * https://github.com/EpicVoyage/pobox-regex
     
